@@ -1,0 +1,9 @@
+the main requierments for this code to run is : 
+ 
+- istalling IDE like (vsc - pycharm)
+ 
+- downloading mediapipe at the latest version  (0.8.11)
+
+- open camera of person doing a supported exercise
+
+-Place the camera horizontally facing the person performing exercise (preferably at eye level).
